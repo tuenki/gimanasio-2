@@ -1,2 +1,2 @@
-# gimanasio-2
-porMientras
+# gimnasio
+Programa de asistencia para gimnasio
